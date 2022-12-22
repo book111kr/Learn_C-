@@ -1,7 +1,7 @@
 # Learn_C-
-## C++ 프로그램 구조
-
-### C++를 사용한 Hello World
+## C++ 기초
+### C++ 기본 구문
+#### 1. C++를 사용한 Hello World
 ```c++
   #include <iostream>   // C++ 언어는 프로그램에 필요하거나 유용한 정보를 포함하는 여러 헤더를 정의합니다.
   using namespace std;  // 라인 using namespace std; std 네임스페이스를 사용하도록 컴파일러에 지시합니다.
@@ -12,3 +12,6 @@
       return 0;               // 다음 줄은 0을 반환합니다. main( ) 함수를 종료하고 호출 프로세스에 값 0을 반환하도록 합니다.
   }
 ```
+#### 2. C++ 프로그램 컴파일 및 실행
+### [C++ 주석](https://github.com/book111kr/Learn_C-/blob/main/%EC%A3%BC%EC%84%9D.md)
+### C++ 데이터 유형
