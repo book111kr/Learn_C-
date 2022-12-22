@@ -13,5 +13,5 @@
   }
 ```
 #### 2. C++ 프로그램 컴파일 및 실행
-### [C++ 주석](https://github.com/book111kr/Learn_C-/blob/main/%EC%A3%BC%EC%84%9D.md)
+### [C++ 주석](https://github.com/book111kr/Learn_C-/blob/main/MD/%EC%A3%BC%EC%84%9D.md)
 ### C++ 데이터 유형
