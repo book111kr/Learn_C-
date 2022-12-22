@@ -1,4 +1,4 @@
-# Learn_C-
+# Learn_C++
 ## C++ 기초
 ### C++ 기본 구문
 #### 1. C++를 사용한 Hello World
