@@ -1,17 +1,5 @@
 # Learn_C++
 ## C++ 기초
-### C++ 기본 구문
-#### 1. C++를 사용한 Hello World
-```c++
-  #include <iostream>   // C++ 언어는 프로그램에 필요하거나 유용한 정보를 포함하는 여러 헤더를 정의합니다.
-  using namespace std;  // 라인 using namespace std; std 네임스페이스를 사용하도록 컴파일러에 지시합니다.
-  
-  // main()은 프로그램 실행이 시작되는 곳입니다. : '//'는 C++에서 사용할 수 있는 한 줄 주석입니다.
-  int main() {
-      cout << "Hello World";  // cout << "Hello World"; "Hello World" 메시지가 화면에 표시되도록 합니다
-      return 0;               // 다음 줄은 0을 반환합니다. main( ) 함수를 종료하고 호출 프로세스에 값 0을 반환하도록 합니다.
-  }
-```
-#### 2. C++ 프로그램 컴파일 및 실행
-### [C++ 주석](https://github.com/book111kr/Learn_C-/blob/main/MD/%EC%A3%BC%EC%84%9D.md)
-### C++ 데이터 유형
+1. [C++ 기본 구문](https://github.com/book111kr/Learn_Cpp/blob/main/MD/%EA%B8%B0%EB%B3%B8%20%EA%B5%AC%EB%AC%B8.md)
+2. [C++ 주석](https://github.com/book111kr/Learn_C-/blob/main/MD/%EC%A3%BC%EC%84%9D.md)
+3. [C++ 데이터 유형]
